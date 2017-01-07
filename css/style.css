@@ -57,10 +57,10 @@ footer.page-footer {
 }
 
 .indigo.darken-5 {
-background-color: rgb(30,47,107) !important; }
+background-color: rgb(23,33,87) !important; }
 
 .indigo-text.text-darken-5 {
-color: rgb(30,47,107) !important; }
+color: rgb(23,33,87) !important; }
 
 .map{
   height: 600px !important;
@@ -77,4 +77,8 @@ color: rgb(30,47,107) !important; }
 
 #footer-logo{
   height: 150px;
+}
+
+.navbar-fixed{
+  height: 64px;
 }
